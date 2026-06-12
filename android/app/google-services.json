@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958647946973",
+    "project_id": "run-quest-7f837",
+    "storage_bucket": "run-quest-7f837.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958647946973:android:8c5f3c73effdddaf015534",
+        "android_client_info": {
+          "package_name": "com.example.run_quest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6d4VObuI6C6M3mtyJ5aKtj1s8yes99A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
